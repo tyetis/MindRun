@@ -5,7 +5,9 @@ MindRun Project is an artificial intelligence application for developed to solve
 
 # Example
 baba = person("baba")
+
 cocuk1 = person("cocuk1")
+
 cocuk2 = person("cocuk2")
 
 baba.age = 27
