@@ -21,3 +21,4 @@ father.age = (child1.age + child2.age) * 2
   
 mrprint(mrsolvecontext())
 ```
+Result {fatherage:27, x:3}
