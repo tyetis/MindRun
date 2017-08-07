@@ -6,18 +6,18 @@ MindRun Project is an artificial intelligence application for developed to solve
 Online Editor : http://www.mindrun.ml
 
 # Example
-baba = person("baba")
 
-cocuk1 = person("cocuk1")
+Solve Link : https://goo.gl/ZXD9tM
 
-cocuk2 = person("cocuk2")
+```python
+father = person("father")
+child1 = person("child1")
+child2 = person("child2")
 
-baba.age = 27
-
-AddEq(cocuk1.age + cocuk2.age, 9)
-
+father.age = 27
+AddEq(child1.age + child2.age, 9)
 SetTime(x)
-
-baba.age = (cocuk1.age + cocuk2.age) * 2
+father.age = (child1.age + child2.age) * 2
   
 mrprint(mrsolvecontext())
+```
