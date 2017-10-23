@@ -3,11 +3,11 @@
 
 MindRun Project is an artificial intelligence application for developed to solve math equations with Python and Sympy Library. MindRun can solve algebraic and verbal problems
 
-Online Editor : http://www.mindrun.ml
+Online Editor : http://mindrun.webrone.com
 
 # Example
 
-Solve Link : https://goo.gl/ZXD9tM
+Solve Link : https://goo.gl/dQnst2
 
 ```python
 father = person("father")
